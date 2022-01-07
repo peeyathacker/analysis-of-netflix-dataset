@@ -10,7 +10,6 @@ This analysis has been split into the following sections:
 <p>
   <center><img src="https://img.shields.io/badge/Made%20with-python-lightgrey"/> &nbsp; &nbsp;</center>
 </p>
-<br />
 
 ### Libraries Used: 
 [pandas](https://pandas.pydata.org/docs/), [numpy](https://numpy.org/doc/stable/reference/), [matplotlib](https://matplotlib.org/)
