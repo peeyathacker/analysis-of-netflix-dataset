@@ -11,7 +11,7 @@ This analysis has been split into the following sections:
   <center><img src="https://img.shields.io/badge/Made%20with-python-lightgrey"/> &nbsp; &nbsp;</center>
 </p>
 
-### Libraries Used: 
+## Libraries Used:
 [pandas](https://pandas.pydata.org/docs/), [numpy](https://numpy.org/doc/stable/reference/), [matplotlib](https://matplotlib.org/)
 
 ***
